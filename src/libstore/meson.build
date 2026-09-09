@@ -279,6 +279,7 @@ sources = files(
   'common-ssh-store-config.cc',
   'content-address.cc',
   'daemon.cc',
+  'daemon-option-policy.cc',
   'derivation-options.cc',
   'derivation/aterm.cc',
   'derivation/full-inputs.cc',
